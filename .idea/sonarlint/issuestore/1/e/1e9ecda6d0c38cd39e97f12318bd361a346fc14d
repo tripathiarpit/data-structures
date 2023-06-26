@@ -1,0 +1,17 @@
+
+D
+java:S2189N""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8İÅôß„1
+€
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ñ“Š±üÿÿÿÿ8êÅôß„1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÖÏ‰Ñıÿÿÿÿ8ëÅôß„1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(§ÏâÅúÿÿÿÿ8ìÅôß„1
+R
+java:S2446 "0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ8íÅôß„1
+{
+java:S2142&"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾8ïÅôß„1
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(ÖÏ‰Ñıÿÿÿÿ8ğÅôß„1
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(ŞË Çøÿÿÿÿ8ñÅôß„1
+R
+java:S2446-"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ8ñÅôß„1
+I
+java:S1602A",Remove useless curly braces around statement(×÷¨î8Æôß„1
