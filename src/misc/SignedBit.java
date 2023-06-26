@@ -1,3 +1,5 @@
+package misc;
+
 public class SignedBit {
     public int hamminWeight(int n) {
       int count=0;

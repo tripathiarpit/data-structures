@@ -1,4 +1,4 @@
-import com.sun.jdi.DoubleValue;
+package misc;
 
 public class ArrayProduct {
     public int arraySign(int[] nums) {
