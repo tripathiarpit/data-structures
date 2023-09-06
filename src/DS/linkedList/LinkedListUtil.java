@@ -32,4 +32,27 @@ public class LinkedListUtil {
         return head;
     }
 
+    public static Node getNthNode(Node head, int N){
+        int count = 0;
+        Node targetNode = head;
+        if(getLength(head) > N) {
+            while(count < N-1) {
+                targetNode = targetNode.next;
+                count++;
+            }
+        } else{
+            return  null;
+        }
+
+        return targetNode;
+    }
+    public static int getLength(Node head){
+        int count =1;
+        Node targetNode = head;
+        while(targetNode.next != null) {
+            targetNode = targetNode.next;
+            count++;
+        }
+        return count;
+    }
 }

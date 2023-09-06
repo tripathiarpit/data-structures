@@ -3,6 +3,7 @@ package DS.linkedList;
 import DS.Node;
 
 import java.awt.*;
+import java.util.Stack;
 
 public class LinkedListLoop {
     public static void main(String[] args) {
@@ -40,6 +41,7 @@ public class LinkedListLoop {
             slowPointer = slowPointer.next;
             fastPointer = fastPointer.next.next;
         }
+
         return null;
     }
 
