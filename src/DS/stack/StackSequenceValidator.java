@@ -25,7 +25,7 @@ import java.util.Stack;
 public class StackSequenceValidator {
     public static void main(String[] args) {
         int [] push = {1,2,3,4,5};
-        int [] pop = {4,3,5,1,2};
+        int [] pop = {4,3,5,2,1};
         Stack<Integer> verifierStack = new Stack<>();
         int justPoppedIndex = 0;
         for(int i= 0; i<push.length; i++) {
