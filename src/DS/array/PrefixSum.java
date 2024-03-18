@@ -19,14 +19,12 @@ public class PrefixSum {
         Arrays.stream(prefixSum).forEach(data-> System.out.print(data+","));
     }
 
-    public static int prefixSumRecursion(int arr[], int index, int prefixSum[]) {
+    public static void prefixSumRecursion(int arr[], int index, int prefixSum[]) {
         if(index == 0) {
             prefixSum[0] = arr[0];
-            return arr[0];
+            return;
         }
-       int sum = prefixSumRecursion(arr,  index-1, prefixSum);
-        sum = sum + arr[index];
-        prefixSum[index] = sum;
-        return sum;
+        prefixSumRecursion(arr,  index-1, prefixSum);
+        prefixSum[index] = arr[index]+prefixSum[index-1];
     }
 }
