@@ -1,0 +1,25 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡¨õãıÿÿÿÿ8´™÷—ê1
+N
+java:S1197",Move the array designators [][] to the type.(İÚ¶éüÿÿÿÿ8©›÷—ê1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÄÏŸ°8ª›÷—ê1
+I
+java:S1197",Move the array designators [][] to the type.(ÄÏŸ°8ª›÷—ê1
+A
+java:S1659"Declare "j" on a separate line.(á”æåşÿÿÿÿ8«›÷—ê1
+L	java:S106"+Replace this use of System.out by a logger.(Ø¾‡»ùÿÿÿÿ8«›÷—ê1
+L	java:S106"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8«›÷—ê1
+L	java:S106 "+Replace this use of System.out by a logger.(Ø¾‡»ùÿÿÿÿ8¬›÷—ê1
+L	java:S106#"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8¬›÷—ê1
+L	java:S106%"+Replace this use of System.out by a logger.(Ø¾‡»ùÿÿÿÿ8¬›÷—ê1
+L	java:S106("+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8¬›÷—ê1
+L	java:S106*"+Replace this use of System.out by a logger.(Ø¾‡»ùÿÿÿÿ8­›÷—ê1
+L	java:S1061"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8­›÷—ê1
+L	java:S1063"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8­›÷—ê1
+L	java:S1066"+Replace this use of System.out by a logger.(Ø¾‡»ùÿÿÿÿ8­›÷—ê1
+L	java:S106="+Replace this use of System.out by a logger.(Ø¾‡»ùÿÿÿÿ8®›÷—ê1
+G
+java:S1128"*Remove this unused import 'tree.TreeNode'.(‹¹„é8®›÷—ê1
+C
+java:S1128"&Remove this unused import 'java.util'.(Î€ŒÙ8ëø—ê1

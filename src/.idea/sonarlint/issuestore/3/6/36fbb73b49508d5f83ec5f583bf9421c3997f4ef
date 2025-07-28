@@ -1,0 +1,20 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¢­¢Â8½úÑ©á2
+[
+java:S1611"9Remove the parentheses around the "vehicleType" parameter(…¿Äúÿÿÿÿ8ÍúÑ©á2
+G	java:S106"+Replace this use of System.out by a logger.(ÃĞ”8ÎúÑ©á2
+o
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(Û¡¬8ÁæÔ©á2
+n
+java:S6204!"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(”ö˜o8ÃæÔ©á2
+B
+java:S21291" Remove this "String" constructor(¬Ó™Àúÿÿÿÿ8ØŒÔ©á2
+F	java:S1063"+Replace this use of System.out by a logger.(şÂ{8ÚŒÔ©á2
+]	java:S125:"<This block of commented-out lines of code should be removed.(ğï—ëûÿÿÿÿ8ÛŒÔ©á2
+X	java:S125U"<This block of commented-out lines of code should be removed.(Ôå×ş8ÛŒÔ©á2
+G	java:S106b"+Replace this use of System.out by a logger.(Â–ÎÓ8İŒÔ©á2
+L	java:S106c"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8¨×©á2
+H
+java:S1128"+Remove this unused import 'java.time.Year'.(Èƒœ¦8ãúÑ©á2
+Y
+java:S1128	"7Remove this unused import 'java.util.stream.Collector'.(ß‹ÎÓøÿÿÿÿ8ãúÑ©á2

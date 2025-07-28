@@ -1,0 +1,25 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡¨õãýÿÿÿÿ8‚åÇ©æ1
+]	java:S125"<This block of commented-out lines of code should be removed.(Ê³Ù¨ûÿÿÿÿ8ŸåÇ©æ1
+^
+java:S1854"ARemove this useless assignment to local variable "unsortedArray".(íŸÔ¯8éÊÖ©æ1
+G
+java:S1197"*Move the array designators [] to the type.(íŸÔ¯8³µÓ©æ1
+O
+java:S1481"2Remove this unused "unsortedArray" local variable.(íŸÔ¯8êÊÖ©æ1
+G
+java:S1197"*Move the array designators [] to the type.(þÀøŒ8æÖÓ©æ1
+]	java:S125"<This block of commented-out lines of code should be removed.(Ôýˆ úÿÿÿÿ8êÊÖ©æ1
+F	java:S106"+Replace this use of System.out by a logger.(£Þ«Q8ËíÒ©æ1
+G
+java:S1197"*Move the array designators [] to the type.(‚••‹8 åÇ©æ1
+W	java:S125"<This block of commented-out lines of code should be removed.(ä¥ú8 åÇ©æ1
+`
+java:S1854-"CRemove this useless assignment to local variable "intMinFromRange".(ëù„â8¡åÇ©æ1
+L
+java:S1197)"*Move the array designators [] to the type.(ÎÓóøÿÿÿÿ8¡åÇ©æ1
+F
+java:S1197<"*Move the array designators [] to the type.(þŽ€,8¢åÇ©æ1
+W	java:S125="<This block of commented-out lines of code should be removed.(ä¥ú8¢åÇ©æ1
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8êñÓ©æ1

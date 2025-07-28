@@ -1,0 +1,14 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½å…ýÿÿÿÿ8†ºã¬ù1
+=
+java:S2326"T is not used in the class.(û´ö°ýÿÿÿÿ8ºã¬ù1
+6
+java:S2153"Remove the boxing of "i".(´Çø‡8Ÿºã¬ù1
+>
+java:S2129"!Remove this "Integer" constructor(´Çø‡8¡ºã¬ù1
+L	java:S106"+Replace this use of System.out by a logger.(’É¨çøÿÿÿÿ8¡ºã¬ù1
+G	java:S106"+Replace this use of System.out by a logger.(þÑÝ—8£ºã¬ù1
+V
+java:S1128"4Remove this unused import 'java.util.LinkedHashSet'.(àŽ€¼úÿÿÿÿ8‹‡“®ù1
+M
+java:S1128"1Remove this unused import 'java.util.LinkedList'.(»Äð18‹‡“®ù1

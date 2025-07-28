@@ -1,0 +1,18 @@
+
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥¨Å’8ÆïÊ®å1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡¨õãıÿÿÿÿ8ÈïÊ®å1
+W
+java:S1118":Add a private constructor to hide the implicit public one.(Äï¥Ç8ÍïÊ®å1
+\
+java:S1854"?Remove this useless assignment to local variable "integerList".(ŞñÆŒ8ÎïÊ®å1
+S
+java:S1854"6Remove this useless assignment to local variable "al".(¥¨Å’8ÎïÊ®å1
+G
+java:S1197"*Move the array designators [] to the type.(Å˜Ú°8ÎïÊ®å1
+G
+java:S1197"*Move the array designators [] to the type.(Å˜Ú°8ÎïÊ®å1
+D
+java:S1481"'Remove this unused "al" local variable.(¥¨Å’8ĞïÊ®å1
+M
+java:S1481"0Remove this unused "integerList" local variable.(ŞñÆŒ8ÑïÊ®å1

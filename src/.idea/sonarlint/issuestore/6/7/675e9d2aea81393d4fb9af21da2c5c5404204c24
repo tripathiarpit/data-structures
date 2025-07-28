@@ -1,0 +1,17 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡¨õãıÿÿÿÿ8ìª­ˆ„3
+Y
+java:S2589"7Remove this expression which always evaluates to "true"(ÔÃ÷˜üÿÿÿÿ8Ê«­ˆ„3
+S
+java:S2589("7Remove this expression which always evaluates to "true"(é¼ÁG8Ê«­ˆ„3
+S
+java:S25896"7Remove this expression which always evaluates to "true"(é¼ÁG8Ê«­ˆ„3
+8
+java:S3626"Remove this redundant jump.(ÉŠ©ƒ8Ù«­ˆ„3
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(”«8Ù«­ˆ„3
+g
+java:S1764("KCorrect one of the identical sub-expressions on both sides of operator "<="(é¼ÁG8Ù«­ˆ„3
+g
+java:S17646"KCorrect one of the identical sub-expressions on both sides of operator "<="(é¼ÁG8Ù«­ˆ„3
+L	java:S106J"+Replace this use of System.out by a logger.(÷…»Üÿÿÿÿÿ8Ù«­ˆ„3

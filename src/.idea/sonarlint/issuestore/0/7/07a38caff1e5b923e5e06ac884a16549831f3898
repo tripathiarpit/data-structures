@@ -1,0 +1,17 @@
+
+’
+java:S1319+"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(š´‰Êşÿÿÿÿ8¬ıõıå1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡¨õãıÿÿÿÿ8®ıõıå1
+L
+java:S1197"*Move the array designators [] to the type.(›ï•‡şÿÿÿÿ8åıõıå1
+G	java:S106"+Replace this use of System.out by a logger.(¹ñå8çıõıå1
+G
+java:S1197"*Move the array designators [] to the type.(Œ¾ş½8èıõıå1
+G
+java:S1659"%Declare "element" on a separate line.(›Š­ûÿÿÿÿ8èıõıå1
+L
+java:S1197+"*Move the array designators [] to the type.(š´‰Êşÿÿÿÿ8êıõıå1
+S
+java:S1128"1Remove this unused import 'java.util.Collection'.(¹ÉĞšùÿÿÿÿ8ïıõıå1
+L
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ8ïıõıå1

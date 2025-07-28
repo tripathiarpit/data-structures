@@ -1,0 +1,13 @@
+
+z	java:S135."YReduce the total number of break and continue statements in this loop to use at most one.(õ¥¬üûÿÿÿÿ8Ìí·Èû1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡¨õãıÿÿÿÿ8Îí·Èû1
+G
+java:S1197%"*Move the array designators [] to the type.(Óğˆé8èí·Èû1
+G	java:S106'"+Replace this use of System.out by a logger.(²Ï˜–8èí·Èû1
+8
+java:S3626:"Remove this redundant jump.(ÉŠ©ƒ8éí·Èû1
+]	java:S125@"<This block of commented-out lines of code should be removed.(¿¡«ıÿÿÿÿ8îÆŠÍû1
+G
+java:S1197T"*Move the array designators [] to the type.(æö¬8ëí·Èû1
+O
+java:S1128!"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8ğÆŠÍû1

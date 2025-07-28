@@ -1,0 +1,32 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ºƒ¶ûÿÿÿÿ8Ä£‚†„3
+©
+java:S2681="†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(°ÒÑ€ÿÿÿÿÿ8Ä£‚†„3
+j
+java:S2259E"MA "NullPointerException" could be thrown; "executorService" is nullable here.( òª¨8Ä£‚†„3
+o
+java:S3776
+"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(Çµí‘8Ó£‚†„3
+B
+java:S1860"&Synchronize on a new "Object" instead.(¤´‘^8Ó£‚†„3
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾8Ó£‚†„3
+L	java:S106"+Replace this use of System.out by a logger.(èéšæıÿÿÿÿ8Ó£‚†„3
+W
+java:S2274":Remove this call to "wait" or move it into a "while" loop.(äö½Â8Ó£‚†„3
+E	java:S108")Either remove or fill this block of code.(”ı¾8Ó£‚†„3
+B
+java:S1860#"&Synchronize on a new "Object" instead.(¤´‘^8Ó£‚†„3
+€
+java:S2142,"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ñ“Š±üÿÿÿÿ8Ó£‚†„3
+G	java:S106&"+Replace this use of System.out by a logger.(Ÿù¨8Ó£‚†„3
+W
+java:S2274)":Remove this call to "wait" or move it into a "while" loop.(äö½Â8Ó£‚†„3
+J	java:S108,")Either remove or fill this block of code.(ñ“Š±üÿÿÿÿ8Ó£‚†„3
+G
+java:S11976"*Move the array designators [] to the type.(ÍÒà»8Ó£‚†„3
+E	java:S108B")Either remove or fill this block of code.(”ı¾8Ó£‚†„3
+\
+java:S1128":Remove this unused import 'java.util.concurrent.Callable'.(¾×¶îûÿÿÿÿ8ÉÜ‚†„3
+Z
+java:S1128"8Remove this unused import 'java.util.concurrent.Future'.(á¬øíıÿÿÿÿ8ÉÜ‚†„3

@@ -7,30 +7,33 @@ public class FindFirstMissingPositiveNumber {
 
 
     public static void main(String[] args) {
-        int arr[]= {-4,2,-7,6,9,1,-8,3};
+        int arr[]= {1,2,0};
         System.out.println("The missing +ve number is ::"+findTheFirstMissingPositiveNumber(arr));
     }
-    public static  int findTheFirstMissingPositiveNumber(int arr[]) {
-        int answer = 0;
-        int indexCount = 0;
-        while(indexCount <arr.length) {  //2
-            if(arr[indexCount] != indexCount+1 &&  (arr[indexCount] > 0 && arr[indexCount] < arr.length)){
-                int temp = arr[indexCount];
-                arr[indexCount]= arr[temp-1];
-                arr[temp-1] =  temp;
-            } else {
-                indexCount++;
+    public static  int findTheFirstMissingPositiveNumber(int nums[]) {
+        int lastPossibleAnswer = nums.length+1;
+        int answer = lastPossibleAnswer;
+        for(int i=0; i<nums.length; i++) {
+            if(nums[i]<=0 || nums[i]>=nums.length+1) {
+                nums[i] = lastPossibleAnswer;
             }
         }
-        for(int i= 0; i< arr.length; i++) {
-            if(arr[i]!=i+1) {
-                answer = i + 1;
-                return answer;
+        for(int i=0; i<nums.length; i++) {
+            if(Math.abs(nums[i]) == lastPossibleAnswer) {
+
+                continue;
+            }
+            int indexOfElement = Math.abs(nums[i])-1;
+            if(nums[indexOfElement]>0){
+                nums[indexOfElement]= - nums[indexOfElement];
             }
         }
-        if(answer == 0) {
-            return arr.length+1;
+        for(int i=0; i<nums.length; i++) {
+            if(nums[i]>0){
+                answer = i+1;
+                break;
+            }
         }
-        return  answer;
+        return answer;
     }
 }

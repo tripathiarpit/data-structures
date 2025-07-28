@@ -1,0 +1,35 @@
+
+J
+java:S1604Q"(Make this anonymous inner class a lambda(Θ“Οϊÿÿÿÿ8¶«ρέ2
+E
+java:S1604f"(Make this anonymous inner class a lambda(§Υϊδ8·«ρέ2
+E
+java:S1604r"(Make this anonymous inner class a lambda(€όυα8·«ρέ2
+
+java:S1488f"dImmediately return this expression instead of assigning it to the temporary variable "sorttedSList".(§Υϊδ8·«ρέ2
+
+java:S1488r"dImmediately return this expression instead of assigning it to the temporary variable "sorttedSList".(€όυα8·«ρέ2
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²Κ›όÿÿÿÿ8Ή«ρέ2
+M
+java:S1481"0Remove this unused "studentList" local variable.(€—»†8Κ«ρέ2
+L	java:S1064"+Replace this use of System.out by a logger.(ΖΒΫρϊÿÿÿÿ8Κ«ρέ2
+]	java:S125"<This block of commented-out lines of code should be removed.(υΛ ÿωÿÿÿÿ8Λ«ρέ2
+X	java:S125"<This block of commented-out lines of code should be removed.(ΠψΨ±8Λ«ρέ2
+X	java:S125&"<This block of commented-out lines of code should be removed.(ξ™8Λ«ρέ2
+X	java:S1250"<This block of commented-out lines of code should be removed.(‡ηΜμ8Λ«ρέ2
+o
+java:S62049"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ΰΏ™›8Μ«ρέ2
+t
+java:S6204>"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ΊΨΩΓωÿÿÿÿ8Ν«ρέ2
+o
+java:S6204A"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ΐ§μ8Ξ«ρέ2
+o
+java:S6204W"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(·Ρ©†8Ò«ρέ2
+o
+java:S6204a"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(†φϊ8Υ«ρέ2
+X	java:S125m"<This block of commented-out lines of code should be removed.(δ’Έ8Ψ«ρέ2
+X	java:S125y"<This block of commented-out lines of code should be removed.(δ’Έ8Ω«ρέ2
+Y
+java:S1128	"7Remove this unused import 'java.util.stream.Collector'.(ί‹ΞΣψÿÿÿÿ8κ‰ρέ2
+Q
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(σχ”8κ‰ρέ2

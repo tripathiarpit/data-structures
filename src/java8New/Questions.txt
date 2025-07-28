@@ -1,0 +1,43 @@
+Student Object
+
+1. Given a list of students, find the average age of all students.
+2. Find the student with the highest GPA.
+3. Filter out students who are under 18 years old.
+4. Group students by their department (e.g., CS, Math, etc.) and find the average GPA of each department.
+5. Find the top 3 students with the highest GPA in each department.
+6. Given a list of students, find the student who has the most courses enrolled.
+7. Find all students who have a GPA above 3.5 and are enrolled in more than 2 courses.
+8. Group students by their major (e.g., CS, Math, etc.) and find the number of students in each major.
+9. Find the student who has the highest total credits earned.
+10. Given a list of students, find the average GPA of all students who are enrolled in a specific course (e.g., "Data Structures").
+
+Employee Object
+
+1. Given a list of employees, find the average salary of all employees.
+2. Find the employee with the highest salary.
+3. Filter out employees who are not full-time.
+4. Group employees by their department (e.g., Sales, Marketing, etc.) and find the average salary of each department.
+5. Find the top 3 employees with the highest salary in each department.
+6. Given a list of employees, find the employee who has the most years of experience.
+7. Find all employees who have a salary above $50,000 and are in a specific department (e.g., Sales).
+8. Group employees by their job title (e.g., Manager, Developer, etc.) and find the number of employees in each job title.
+9. Find the employee who has the highest total bonus earned.
+10. Given a list of employees, find the average salary of all employees who are in a specific department (e.g., Sales).
+
+Customized Objects
+
+1. Create a Book object with attributes title, author, price, and publicationYear. Given a list of books, find the average price of all books published in a specific year.
+2. Create a Car object with attributes make, model, year, and price. Given a list of cars, find the car with the highest price.
+3. Create a Order object with attributes orderId, customerId, orderDate, and total. Given a list of orders, find the customer who has placed the most orders.
+4. Create a Product object with attributes productId, name, price, and category. Given a list of products, find the product with the highest price in each category.
+5. Create a Transaction object with attributes transactionId, accountId, transactionDate, and amount. Given a list of transactions, find the account with the highest total transaction amount.
+
+Advanced Questions
+
+1. Given a list of students, find the student who has the most courses enrolled in common with another student.
+2. Given a list of employees, find the employee who has the most colleagues in the same department.
+3. Given a list of books, find the author who has written the most books.
+4. Given a list of orders, find the customer who has placed the most orders in a specific time period (e.g., last month).
+5. Given a list of transactions, find the account with the highest total transaction amount in a specific time period (e.g., last quarter).
+
+These questions should give you a good variety of scenarios to practice Java 8 streams with collections. Good luck!

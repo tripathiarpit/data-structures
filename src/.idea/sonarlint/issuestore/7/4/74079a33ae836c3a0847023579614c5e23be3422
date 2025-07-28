@@ -1,0 +1,15 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½å…ıÿÿÿÿ8æ«å¥ù1
+
+java:S1186/"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(º÷§8ö«å¥ù1
+
+java:S11862"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(˜ş›¼8ö«å¥ù1
+e
+java:S1854"CRemove this useless assignment to local variable "lastNonNullNode".(ïôşÓøÿÿÿÿ8ö«å¥ù1
+Q
+java:S11725"/Remove this unused method parameter "position".(Î•åĞıÿÿÿÿ8…¬å¥ù1
+F	java:S106<"+Replace this use of System.out by a logger.(§Òğ8…¬å¥ù1
+^
+java:S1854¨";Remove this useless assignment to local variable "newNode".(¬Öíüùÿÿÿÿ8…¬å¥ù1
+O
+java:S1481¨",Remove this unused "newNode" local variable.(¬Öíüùÿÿÿÿ8…¬å¥ù1

@@ -1,0 +1,11 @@
+
+f	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çûù›
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½å…ıÿÿÿÿ
+M
+java:S2589"7Remove this expression which always evaluates to "true"(ğ¾ˆŠ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(üÁÍÿÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(Ç¿Ãùÿÿÿÿ
+>	java:S108")Either remove or fill this block of code.(ğ¾ˆŠ
+@	java:S106"+Replace this use of System.out by a logger.(ÖÏÉã
+E	java:S106"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ

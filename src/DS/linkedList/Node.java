@@ -7,7 +7,10 @@ public class Node {
         this.data = data;
         next = null;
     }
-
+public Node setNext(Node next) {
+       this.next = next;
+       return this;
+}
     @Override
     public String toString() {
         return

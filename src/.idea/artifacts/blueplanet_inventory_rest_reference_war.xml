@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="blueplanet-inventory-rest-reference:war">
+    <output-path>$PROJECT_DIR$/../../development/delivery-Assets/bulk-load-ui/asset-rest/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>blueplanet-inventory-rest-reference</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="blueplanet-inventory-rest-reference.war">
+      <element id="artifact" artifact-name="blueplanet-inventory-rest-reference:war exploded" />
+    </root>
+  </artifact>
+</component>

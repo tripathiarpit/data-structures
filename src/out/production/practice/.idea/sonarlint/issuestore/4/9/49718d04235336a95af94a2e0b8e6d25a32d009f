@@ -1,0 +1,11 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡¨õãıÿÿÿÿ8ï††Ïù1
+d
+java:S3973"GUse indentation to denote the code conditionally executed by this "if".(æ¯8ï††Ïù1
+G
+java:S1197"*Move the array designators [] to the type.(¹¸Íè8ƒ‡†Ïù1
+L	java:S106"+Replace this use of System.out by a logger.(ûŞİùÿÿÿÿ8ƒ‡†Ïù1
+G
+java:S1197"*Move the array designators [] to the type.(™ûœ8ƒ‡†Ïù1
+L
+java:S1197-"*Move the array designators [] to the type.(…ŸÃ‘ûÿÿÿÿ8ƒ‡†Ïù1

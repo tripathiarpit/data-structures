@@ -1,0 +1,22 @@
+
+†
+java:S1488"dImmediately return this expression instead of assigning it to the temporary variable "employeeList".(´Û©Ìøÿÿÿÿ8‚«Õ—Ğ2
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²Ê›üÿÿÿÿ8ƒ«Õ—Ğ2
+q
+java:S2259"O"NullPointerException" will be thrown when invoking method "extractEmpldata()".(¸Åøáúÿÿÿÿ8½–Ë«Ñ2
+X
+java:S1854"6Remove this useless assignment to local variable "ss".(»æÄ¶ûÿÿÿÿ8¾¢Ø—Ğ2
+]	java:S125"<This block of commented-out lines of code should be removed.(¥ŒõÜÿÿÿÿÿ8Ç¯Ê«Ñ2
+L	java:S106"+Replace this use of System.out by a logger.(¸Åøáúÿÿÿÿ8’«Õ—Ğ2
+I
+java:S1481"'Remove this unused "ss" local variable.(»æÄ¶ûÿÿÿÿ8Â¢Ø—Ğ2
+o
+java:S6204%"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(œçÖß8–«Õ—Ğ2
+o
+java:S6204)"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(™Ôº8—«Õ—Ğ2
+o
+java:S62041"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8Ö±ï™Ğ2
+Z
+java:S1128"8Remove this unused import 'java.util.function.Consumer'.(Ì†ƒÔùÿÿÿÿ8Æ–Ë«Ñ2
+Q
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷”8Æ–Ë«Ñ2

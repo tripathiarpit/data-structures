@@ -1,0 +1,13 @@
+
+r
+java:S1104"UMake TEST_NODE a static final constant or non-public and provide accessors if needed.(Û‹õñ8Çíã‰ƒ3
+L
+java:S1444"/Make this "public static TEST_NODE" field final(Û‹õñ8Çíã‰ƒ3
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°Â÷ú8£Ÿã‰ƒ3
+q
+java:S3008"TRename this field "TEST_NODE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û‹õñ8Éíã‰ƒ3
+\
+java:S1118":Add a private constructor to hide the implicit public one.(“Ð”Ÿþÿÿÿÿ8Ôôé‰ƒ3
+]	java:S125"<This block of commented-out lines of code should be removed.(Ê¸ÆÙýÿÿÿÿ8ÉŠƒ3
+W
+java:S1128"5Remove this unused import 'com.sun.source.tree.Tree'.(·óƒüýÿÿÿÿ8àŠƒ3

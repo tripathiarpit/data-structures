@@ -1,11 +1,19 @@
 package models;
 
 import java.math.BigDecimal;
+import java.util.Comparator;
+import java.util.List;
+import java.util.Objects;
 
-public class Student {
-    public Student(String name, String lastname, String address, BigDecimal pinCode, String phoneNumber, double percentage, String standard) {
-        super();
+public class Student implements Comparable<Student> {
+    public Student(){
+
+    }
+
+    public Student(List<Subject> enrolledSubjects, String name, int age, String lastname, String address, BigDecimal pinCode, String phoneNumber, double percentage, String standard) {
+        this.enrolledSubjects = enrolledSubjects;
         this.name = name;
+        this.age = age;
         this.lastname = lastname;
         this.address = address;
         this.pinCode = pinCode;
@@ -14,12 +22,12 @@ public class Student {
         this.standard = standard;
     }
 
-    private String name;
-
     @Override
     public String toString() {
         return "Student{" +
-                "name='" + name + '\'' +
+                "enrolledSubjects=" + enrolledSubjects +
+                ", name='" + name + '\'' +
+                ", age=" + age +
                 ", lastname='" + lastname + '\'' +
                 ", address='" + address + '\'' +
                 ", pinCode=" + pinCode +
@@ -28,6 +36,23 @@ public class Student {
                 ", standard='" + standard + '\'' +
                 '}';
     }
+
+    List<Subject> enrolledSubjects;
+    private String name;
+
+    public int getAge() {
+        return age;
+    }
+
+    public void setAge(int age) {
+        this.age = age;
+    }
+    public Student getSelfReference(){
+        return this;
+    }
+    private int age;
+
+
 
     private String lastname;
     private String address;
@@ -91,4 +116,19 @@ public class Student {
     public void setStandard(String standard) {
         this.standard = standard;
     }
+
+    public List<Subject> getEnrolledSubjects() {
+        return enrolledSubjects;
+    }
+
+    public void setEnrolledSubjects(List<Subject> enrolledSubjects) {
+        this.enrolledSubjects = enrolledSubjects;
+    }
+
+    @Override
+    public int compareTo(Student o) {
+        return this.getName().compareTo(o.getName());
+    }
+
+
 }
