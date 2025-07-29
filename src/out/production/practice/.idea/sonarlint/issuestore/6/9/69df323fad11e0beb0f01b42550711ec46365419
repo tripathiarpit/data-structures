@@ -1,35 +1,35 @@
 
 J
-java:S1604Q"(Make this anonymous inner class a lambda(˜È“Ïúÿÿÿÿ8¶«ˆñİ2
+java:S1604T"(Make this anonymous inner class a lambda(˜È“Ïúÿÿÿÿ8ö¹Àä„3
 E
-java:S1604f"(Make this anonymous inner class a lambda(§Õúä8·«ˆñİ2
+java:S1604i"(Make this anonymous inner class a lambda(§Õúä8ö¹Àä„3
 E
-java:S1604r"(Make this anonymous inner class a lambda(€üõá8·«ˆñİ2
+java:S1604u"(Make this anonymous inner class a lambda(€üõá8ö¹Àä„3
 
-java:S1488f"dImmediately return this expression instead of assigning it to the temporary variable "sorttedSList".(§Õúä8·«ˆñİ2
+java:S1488i"dImmediately return this expression instead of assigning it to the temporary variable "sorttedSList".(§Õúä8ö¹Àä„3
 
-java:S1488r"dImmediately return this expression instead of assigning it to the temporary variable "sorttedSList".(€üõá8·«ˆñİ2
-{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²Ê›üÿÿÿÿ8¹«ˆñİ2
+java:S1488u"dImmediately return this expression instead of assigning it to the temporary variable "sorttedSList".(€üõá8ö¹Àä„3
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²Ê›üÿÿÿÿ8ö¹Àä„3
 M
-java:S1481"0Remove this unused "studentList" local variable.(€—»†8Ê«ˆñİ2
-L	java:S1064"+Replace this use of System.out by a logger.(ÆÂÛñúÿÿÿÿ8Ê«ˆñİ2
-]	java:S125"<This block of commented-out lines of code should be removed.(õË ÿùÿÿÿÿ8Ë«ˆñİ2
-X	java:S125"<This block of commented-out lines of code should be removed.(ĞøØ±8Ë«ˆñİ2
-X	java:S125&"<This block of commented-out lines of code should be removed.(˜î™8Ë«ˆñİ2
-X	java:S1250"<This block of commented-out lines of code should be removed.(‡çÌì8Ë«ˆñİ2
+java:S1481"0Remove this unused "studentList" local variable.(€—»†8ºÀä„3
+L	java:S1065"+Replace this use of System.out by a logger.(ÆÂÛñúÿÿÿÿ8ºÀä„3
+]	java:S125"<This block of commented-out lines of code should be removed.(õË ÿùÿÿÿÿ8ºÀä„3
+X	java:S125 "<This block of commented-out lines of code should be removed.(ĞøØ±8ºÀä„3
+X	java:S125'"<This block of commented-out lines of code should be removed.(˜î™8ºÀä„3
+X	java:S1251"<This block of commented-out lines of code should be removed.(‡çÌì8ºÀä„3
 o
-java:S62049"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(à¿™›8Ì«ˆñİ2
+java:S6204:"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(à¿™›8ºÀä„3
 t
-java:S6204>"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ºØÙÃùÿÿÿÿ8Í«ˆñİ2
+java:S6204?"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ºØÙÃùÿÿÿÿ8ºÀä„3
 o
-java:S6204A"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(Àš§ì8Î«ˆñİ2
+java:S6204B"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(Àš§ì8‘ºÀä„3
 o
-java:S6204W"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(·Ñ©†8Ò«ˆñİ2
+java:S6204Z"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(·Ñ©†8–ºÀä„3
 o
-java:S6204a"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(†öúš8Õ«ˆñİ2
-X	java:S125m"<This block of commented-out lines of code should be removed.(ä’¸8Ø«ˆñİ2
-X	java:S125y"<This block of commented-out lines of code should be removed.(ä’¸8Ù«ˆñİ2
+java:S6204d"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(†öúš8™ºÀä„3
+X	java:S125p"<This block of commented-out lines of code should be removed.(ä’¸8œºÀä„3
+X	java:S125|"<This block of commented-out lines of code should be removed.(ä’¸8ºÀä„3
 Y
-java:S1128	"7Remove this unused import 'java.util.stream.Collector'.(ß‹ÎÓøÿÿÿÿ8ê‰Šñİ2
+java:S1128	"7Remove this unused import 'java.util.stream.Collector'.(ß‹ÎÓøÿÿÿÿ8 ºÀä„3
 Q
-java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷”8ê‰Šñİ2
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷”8 ºÀä„3

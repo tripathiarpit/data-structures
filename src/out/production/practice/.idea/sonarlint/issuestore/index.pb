@@ -193,3 +193,19 @@ T
 $DS/string/IndexInListPlaindrome.java,a\d\ad2703bad9bcb639fbbb558b2cb0be2204649bb8
 M
 DS/threads/ExampleThread.java,4\d\4d7931e3163b9345a5126ef1c14a1fb29669f457
+O
+DS/threads/CallableExample.java,2\4\246f2ea904c5834dd32ac7a01a79552d3493d6e6
+H
+DS/array/AllienWord.java,6\7\675e9d2aea81393d4fb9af21da2c5c5404204c24
+]
+-DS/queue/GenerateKthEvenPalindromeNumber.java,7\6\76aa6eea7a3d173ea425050582300842c5df2dfb
+V
+&DS/queue/GenerateKthNumberUsingAB.java,4\7\47a40155b9dc4a3ac53f1e1e22f1154ffd483a03
+N
+DS/array/RainWaterTapping.java,4\1\41f4f50a72f1e74b0f0df5b43717d8d7704ca2c8
+R
+"DS/array/FindSingleOccurrence.java,2\0\20105978aeeedd4be5291f15835bd38f6af36b55
+N
+DS/searching/BinarySearch.java,c\9\c98134cee32f7b05b631d91f63886e24e6130c69
+J
+models/PersonRecordVo.java,d\c\dc9d9b3ba8f44b00084c1eba84f3f5f9119bbb0b
